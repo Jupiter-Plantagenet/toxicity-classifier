@@ -60,7 +60,7 @@ Below is the final performance on the held-out test set using the optimized thre
 ### Model Performance Visualizations
 
 #### Confusion Matrices for Each Label
-![Confusion Matrices](CONFUSION%20MATRICES-1.png)
+![Confusion Matrices](CONFUSION%20MATRICES.png)
 
 #### Distribution of Toxicity Labels
 ![Distribution of Toxicity](Distribution%20of%20toxicity-1.png)
