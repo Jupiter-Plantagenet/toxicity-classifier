@@ -32,4 +32,3 @@ You may want to preprocess the text data before training. Common preprocessing s
 ## Note
 
 This directory is included in .gitignore to prevent large data files from being committed to version control.
-![alt text](CONFUSION MATRICES.png) ![alt text](Distribution of toxicity.png)

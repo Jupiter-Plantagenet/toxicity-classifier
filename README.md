@@ -145,3 +145,4 @@ Created by **[George Akor]** - Feel free to connect!
 
 * **GitHub:** `https://github.com/Jupiter-Plantagenet`
 * **LinkedIn:** `www.linkedin.com/in/george-akor-65953819a`
+![alt text](CONFUSION MATRICES-1.png) ![alt text](Distribution of toxicity-1.png)
