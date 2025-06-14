@@ -57,6 +57,14 @@ Below is the final performance on the held-out test set using the optimized thre
 | **---** | **---** | **---** | **---** |
 | **Weighted Avg**| **0.76** | **0.83** | **0.79** |
 
+### Model Performance Visualizations
+
+#### Confusion Matrices for Each Label
+![Confusion Matrices](CONFUSION%20MATRICES-1.png)
+
+#### Distribution of Toxicity Labels
+![Distribution of Toxicity](Distribution%20of%20toxicity-1.png)
+
 ## **Tech Stack**
 
 * **Core Libraries:** Python, PyTorch, Hugging Face (Transformers, Datasets, Evaluate)
@@ -145,4 +153,3 @@ Created by **[George Akor]** - Feel free to connect!
 
 * **GitHub:** `https://github.com/Jupiter-Plantagenet`
 * **LinkedIn:** `www.linkedin.com/in/george-akor-65953819a`
-![alt text](CONFUSION MATRICES-1.png) ![alt text](Distribution of toxicity-1.png)
