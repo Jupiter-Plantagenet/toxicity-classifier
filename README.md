@@ -82,7 +82,7 @@ To set up this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[Your-GitHub-Username]/toxicity-classifier.git
+    git clone [https://github.com/](https://github.com/)Jupiter-Plantagenet/toxicity-classifier.git
     cd toxicity-classifier
     ```
 
